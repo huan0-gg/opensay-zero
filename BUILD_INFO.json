@@ -1,0 +1,21 @@
+{
+  "name": "opensay-zero",
+  "version": "2.0.0",
+  "tag": "v2.0.0",
+  "source_commit": "ac995bdbb09e67347795b18f6f743d30d2624185",
+  "built_at": "2026-10-20T08:41:03.957Z",
+  "node": "v24.21.0",
+  "tests": {
+    "unit": 58,
+    "e2e": 6
+  },
+  "artifacts": {
+    "opensay-zero-v2.0.0-source.zip": "fea47ef89d73d14ad69a58b5d3db09d7f0eb5155a5a8e7e4229be3b94dd9035a",
+    "opensay-zero-v2.0.0-dist.zip": "160583d2e33ad2c69deb238e0a7b2321b09d4d9f940486e69ed894844f8e7129"
+  },
+  "entrypoints": {
+    "source": "README.md",
+    "release": "RELEASE.md",
+    "changelog": "CHANGELOG.md"
+  }
+}
